@@ -1,0 +1,339 @@
+html, body {
+  width: 100%;
+}
+
+.submit-btn {
+  margin-top: 0.533rem;
+  border-radius: 1.333rem;
+}
+
+// 登录页面相关
+.live-login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  .am-list-item.am-input-item {
+    height: 1.173rem;
+  }
+  .am-list-item .am-list-line {
+    padding-right: 0.4rem;
+  }
+  .am-list-item .am-input-label, .am-list-item .am-input-control {
+    font-size: 0.453rem;
+  }
+
+  .login-form-wrap {
+    width: 100%;
+  }
+  .login-logo {
+    margin: 1.333rem;
+    width: 2.667rem;
+    height: 2.667rem;
+  }
+  .login-name {
+    padding: 0 0.533rem;
+  }
+  .login-gotoForgetPassword {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0.267rem;
+    font-size: 0.373rem;
+    color: #FF8F42;
+    width: 100%;
+  }
+  .myBtn {
+    margin-top: 0.533rem;
+  }
+  .login-info{
+    margin-top: 5.5rem;
+    width: 100%;
+    text-align: center;
+    color: #999;
+  }
+}
+
+// 忘记密码的输入手机号模块相关
+.live-forgetPasswordPhone {
+  .forgetPasswordPhone-title {
+    padding-left: 0.533rem;
+    font-size: 0.373rem;
+    color: #333333;
+    margin: 0.667rem 0rem;
+  }
+  .forgetPasswordPhone-form-wrap {
+    padding: 0 0.533rem;
+  }
+  .myBtn {
+    margin-top: 0.533rem;
+  }
+}
+
+// 忘记密码的发送验证码
+.live-forgetPasswordCode {
+  .forgetPasswordCode-title {
+    padding-left: 0.533rem;
+    font-size: 0.373rem;
+    color: #333333;
+    margin: 0.667rem 0rem;
+  }
+  .forgetPasswordCode-form-wrap {
+    padding: 0 0.533rem;
+  }
+  .forgetPasswordCode-sendCode-btn {
+    display: block;
+    color: #FF8F42;
+    margin-top: 0.267rem;
+    padding-left: 0.533rem;
+  }
+  .myBtn {
+    margin-top: 0.533rem;
+  }
+}
+
+// 修改密码相关
+.live-editPassword {
+  .editPassword-title {
+    padding-left: 0.533rem;
+    font-size: 0.373rem;
+    color: #333333;
+    margin: 0.667rem 0rem;
+  }
+  .editPassword-form-wrap {
+    padding: 0.533rem 0.533rem;
+    .editPassword-protocol {
+      margin-top: 0.533rem;
+    }
+  }
+  .myBtn {
+    margin-top: 0.533rem;
+  }
+}
+
+// 图型验证码相关
+.live-chartcode {
+  .chartcode-title {
+    font-weight: normal;
+    font-size: 0.373rem;
+    margin: 0.533rem 0rem;
+    padding-left: 0.533rem;
+  }
+  .chartcode-form-wrap {
+    position: relative;
+    padding: 0rem 0.533rem;
+    .chartcode-img {
+      display: block;
+      position: absolute;
+      right: 0rem;
+      top: 0.347rem;
+    }
+    .chartcode-refresh-btn {
+      display: block;
+      text-align: right;
+      font-size: 0.373rem;
+      color: #FF8F42;
+      margin-top: 0.267rem;
+    }
+  }
+  .myBtn {
+    margin-top: 0.533rem;
+  }
+}
+
+// 修改相关ant-mobile的样式
+.live-login, .live-forgetPasswordPhone, .live-forgetPasswordCode, .live-editPassword, .live-chartcode {
+  .am-list {
+    .am-list-item {
+      padding-left: 0px;
+      .am-input-label.am-input-label-5 {
+        width: initial;
+        margin-right: 0.4rem;
+      }
+      input {
+        font-size: 0.373rem;
+      }
+    }
+    .am-list-body {
+      &::before {
+        display: none;
+      }
+    }
+  }
+}
+
+.color-FF3333 {
+  color: #FF3333
+}
+
+.color-FF771C {
+  color: #FF771C
+}
+
+.color-33CC33 {
+  color: #33CC33
+}
+
+.register {
+  .editPassword-protocol {
+    padding: 0 0.64rem;
+    margin-bottom: 0.4rem;
+  }
+  .my-inputItem {
+    padding-bottom: 0;
+  }
+  .register-submit {
+    position: fixed;
+    bottom: 0;
+    padding-bottom: 0.267rem;
+    .am-checkbox-agree .am-checkbox-agree-label {
+      font-size: 0.373rem;
+
+    }
+    .am-checkbox-inner {
+      width: 0.533rem;
+      height: 0.533rem;
+
+    }
+    .protocol-link {
+      color: #FF8F42;
+    }
+  }
+  .am-checkbox-agree .am-checkbox-agree-label {
+    margin-left: 0.8rem;
+  }
+  .am-checkbox-inner:after {
+    position: absolute;
+    display: none;
+    top: 0.04rem;
+    right: 0.16rem;
+    z-index: 999;
+    width: 0.133rem;
+    height: 0.293rem;
+    border-style: solid;
+    border-width: 0 0.027rem 0.027rem 0;
+    content: ' ';
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  .am-checkbox-agree .am-checkbox {
+    width: 0.8rem;
+  }
+  .am-checkbox-agree .am-checkbox-inner {
+    top: 0.32rem;
+  }
+}
+
+.protocol {
+  .am-button.am-button-disabled {
+    background: #CCCCCC;
+    span {
+      opacity: 0.5;
+    }
+  }
+  .am-button {
+    width: 98%;
+    margin: 0 auto;
+    background: linear-gradient(to right, #FFBE59, #FF8F42);
+    color: #fff;
+    font-size: 16px;
+    height:44px;
+    line-height: 44px;
+    border-radius: 22px;
+  }
+  /*6*/
+  @media (min-device-width : 375px) and (max-device-width : 667px) and (-webkit-min-device-pixel-ratio : 2){
+    .am-button{
+      font-size: 16px;
+      height:44px;
+      line-height: 44px;
+      border-radius: 22px;
+    }
+
+  }
+
+  /*6+*/
+  @media (min-device-width : 414px) and (max-device-width : 736px) and (-webkit-min-device-pixel-ratio : 3){
+    .am-button{
+      font-size: 18px;
+      height:48px;
+      line-height: 48px;
+      border-radius: 24px;
+    }
+  }
+
+  /*魅族*/
+  @media only screen and (min-device-width :1080px) and (-webkit-min-device-pixel-ratio : 2.5){
+    .am-button{
+      font-size: 18px;
+      height:48px;
+      line-height: 48px;
+      border-radius: 24px;
+    }
+  }
+
+  /*mate7*/
+  @media only screen and (min-device-width :1080px) and (-webkit-min-device-pixel-ratio : 3){
+    .am-button{
+      font-size: 18px;
+      height:48px;
+      line-height: 48px;
+      border-radius: 24px;
+    }
+  }
+  .btn-warp{
+    position: fixed;
+    bottom: 12px;
+    width: 100%;
+  }
+
+  .iframeCss{
+    height: 100%;
+  }
+
+  .protocol-msg{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform:translate(-50%,-50%);
+    background: rgba(0,0,0,1);
+    color: #fff;
+    padding: 5px;
+    font-size: 16px;
+  }
+}
+
+
+.addSecret{
+  .addSecret-info{
+    h3{
+      margin: 0;
+      padding: 0.533rem 0.64rem;
+    }
+    h4{
+      margin: 0;
+      padding: 0.133rem 0.64rem;
+    }
+    >div,>p{
+      padding: 0.333rem 0.64rem;
+      color: #ccc;
+    }
+    .addSecret-getSecret{
+      padding-top: 0;
+      text-align: right;
+      >a{
+        color: #FF8F42;
+      }
+    }
+  }
+  .addSecret-msg{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform:translate(-50%,-50%);
+    background: rgba(0,0,0,1);
+    color: #fff;
+    padding: 0.133rem;
+    font-size: 0.427rem;
+  }
+}

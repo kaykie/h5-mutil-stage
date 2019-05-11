@@ -1,0 +1,49 @@
+.cloud-modal-mask{
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 100%;
+  z-index: 999;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.cloud-dialog__select{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  .am-modal-content{
+    background: rgba(0, 0, 0, 0);
+    .am-modal-body{
+      padding: 0 0.24rem 0.0533rem;
+    }
+  }
+  &--inner{
+    padding-bottom: 0.2133rem;
+  }
+  &__list{
+    background: #fff;
+    border-radius: 0.2933rem;
+    overflow: hidden;
+  }
+  &__item{
+    @size:1.3333rem;
+    &+&{
+      border-top: 1px solid #E1E1E1;
+    }
+    .am-button{
+      height: @size;
+      font-size: 0.4267rem;
+      color: #666;
+      line-height: @size;
+      border:0 none;
+      background: none;
+    }
+  }
+  &__btn{
+    @size:1.3333rem;
+    height: @size;
+  }
+}

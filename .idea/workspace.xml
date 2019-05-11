@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04ea7ec3-afd4-483a-a2b2-2c5b5a1dafce" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6157407">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/imagePickerBtn/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="129">
+                  <caret line="84" selection-start-line="84" selection-end-line="84" />
+                  <folding>
+                    <element signature="e#0#39#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/models/cloudDoor.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="735">
+                  <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/models/person.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="171">
+                  <caret line="156" column="11" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
+                  <folding>
+                    <element signature="e#0#60#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dataSourceRelation</find>
+      <find>goBackFromSearch</find>
+      <find>personName</find>
+      <find>onOpen</find>
+      <find>onRefreshInitEventList</find>
+      <find>isSearchSubmit</find>
+      <find>detail-name-handle</find>
+      <find>deviceNameError</find>
+      <find>item-right</find>
+      <find>initDataAfterHandle</find>
+      <find>.item-detail</find>
+      <find>hh</find>
+      <find>isNoMoreData</find>
+      <find>刷新失败</find>
+      <find>getBase64Size</find>
+      <find>while</find>
+      <find>50008</find>
+      <find>addEnterPrise</find>
+      <find>codeGetToken</find>
+      <find>checkStatus</find>
+      <find>MliveHeader</find>
+      <find>fetchDataError</find>
+      <find>transform</find>
+      <find>handleSubmit</find>
+      <find>uploadPhoto</find>
+      <find>save</find>
+      <find>addPerson</find>
+      <find>canvas</find>
+      <find>face-a</find>
+      <find>sha1-kvl2aPA96wnX+hHqKIgyqMdW414=</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>endTime</replace>
+      <replace>'</replace>
+      <replace>request</replace>
+      <replace>accessToken</replace>
+      <replace>localStorage.getItem('accessToken')</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\work\saasFaceApp\node_modules\antd-mobile\es\list-view</dir>
+      <dir>E:\work\saasFaceApp\src\routes</dir>
+      <dir>E:\work\saasFaceApp\src</dir>
+      <dir>E:\profile\mutilReatApp\node_modules\dva-core</dir>
+      <dir>E:\profile\mutilReatApp\node_modules\dva</dir>
+      <dir>E:\profile\mutilReatApp\src\pages\components</dir>
+      <dir>E:\profile\mutilReatApp\node_modules\roadhog</dir>
+      <dir>E:\profile\mutilReatApp\src\pages\faceSearch</dir>
+      <dir>E:\work\SaasFace_app\src</dir>
+      <dir>E:\work\SaasFace_app\src\pages\faceSearch</dir>
+      <dir>E:\work\SaasFace_app\node_modules</dir>
+      <dir>E:\work\SaasFace_app\cloudDoor1.0.0\node_modules\af-webpack</dir>
+      <dir>E:\work\SaasFace_app\cloudDoor1.0.0\node_modules</dir>
+      <dir>E:\work\SaasFace_app\cloudDoor1.0.0\src\pages\cloudDoor</dir>
+      <dir>E:\work\SaasFace_app\cloudDoor1.0.0\src\pages</dir>
+      <dir>E:\work\SaasFace_app\cloudDoorv1.0.1\src</dir>
+      <dir>E:\work\SaasFace_app\cloudDoorv1.0.1</dir>
+      <dir>E:\work\SaasFace_app\cloudDoorv1.0.1\src\pages\cloudDoor\components\tabBar</dir>
+      <dir>E:\work\SaasFace_app\cloudDoorv1.0.1\src\pages\cloudDoor\routes</dir>
+      <dir>E:\work\SaasFace_app\cloudDoorv1.0.1\src\pages\faceSearch</dir>
+      <dir>E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor\routes\login\cell</dir>
+      <dir>E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor\routes\deviceManage</dir>
+      <dir>E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor\components</dir>
+      <dir>E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor</dir>
+      <dir>E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor\routes\login</dir>
+      <dir>E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor\routes</dir>
+      <dir>E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor\routes\personManage</dir>
+      <dir>E:\work\云门禁相关\cloudDoorv1.0.1\src</dir>
+      <dir>E:\work\云门禁相关\cloudDoorv1.0.1\src\pages</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/image/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/index.js" />
+        <option value="$PROJECT_DIR$/public/faceSearch.html" />
+        <option value="$PROJECT_DIR$/src/pages/faceSearch/index.less" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/services/api/xnwApi.js" />
+        <option value="$PROJECT_DIR$/src/pages/faceSearch/components/imagePicker/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/faceSearch/components/uploadImage/index.less" />
+        <option value="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/faceSearch/components/uploadImage/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/services/PubliceService.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/searchBar/index.less" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/index.js" />
+        <option value="$PROJECT_DIR$/.webpackrc.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/searchBar/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceDetail/index.less" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/listView/index.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceList/index.less" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/dateSelect/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/cell/searchResult/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/searchResult/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/models/cloudDoor.js" />
+        <option value="$USER_HOME$/Desktop/index.js" />
+        <option value="$PROJECT_DIR$/.eslintrc" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.less" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/router.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/utils/request.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/forgetPasswordPhone.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/chartCode.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/editPassword.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/forgetPasswordCode.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/App.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDeviceName/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/register.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceList/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/addSecret.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/cell/eventList/index.js" />
+        <option value="$PROJECT_DIR$/public/cloudDoor.html" />
+        <option value="$PROJECT_DIR$/src/pages/index.ejs" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/protocol.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/api/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/services/api/personProvider.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/models/person.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/index.less" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/navBar/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/photoUpload/index.js" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="299" />
+    <option name="y" value="170" />
+    <option name="width" value="1442" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="带有人脸检索版本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="带有人脸检索版本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="带有人脸检索版本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="带有人脸检索版本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="带有人脸检索版本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="带有人脸检索版本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="E:/profile/reactTest/node_modules/eslint" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="E:/profile/reactTest/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.1.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="typescript-compiler-editor-notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\云门禁相关\cloudDoorv1.0.1\public" />
+      <recent name="E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor\routes\deviceManage" />
+      <recent name="E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor\routes\deviceManage\face_recognition" />
+      <recent name="E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor\assets\images" />
+      <recent name="E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\faceSearch\assets\fontsize\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\work\云门禁相关\cloudDoorv1.0.1\public" />
+      <recent name="E:\work\云门禁相关\cloudDoorv1.0.1" />
+      <recent name="E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\faceSearch\assets" />
+      <recent name="E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\faceSearch\assets\images" />
+      <recent name="E:\work\云门禁相关\cloudDoorv1.0.1\src\pages\cloudDoor\routes\login\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\xianianwang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04ea7ec3-afd4-483a-a2b2-2c5b5a1dafce" name="Default" comment="" />
+      <created>1543197504343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543197504343</updated>
+      <workItem from="1543197508193" duration="1472000" />
+      <workItem from="1543213252535" duration="789000" />
+      <workItem from="1543401056354" duration="19000" />
+      <workItem from="1543407165837" duration="601000" />
+      <workItem from="1543457740266" duration="4497000" />
+      <workItem from="1543471465977" duration="3676000" />
+      <workItem from="1544499089450" duration="647000" />
+      <workItem from="1544512465768" duration="3370000" />
+      <workItem from="1544578892699" duration="591000" />
+      <workItem from="1545987792268" duration="3473000" />
+      <workItem from="1546502491393" duration="261000" />
+      <workItem from="1546510891666" duration="870000" />
+      <workItem from="1547539199319" duration="20000" />
+      <workItem from="1547636687243" duration="1335000" />
+      <workItem from="1547638144581" duration="1652000" />
+      <workItem from="1547790193623" duration="47000" />
+      <workItem from="1551665831531" duration="1002000" />
+      <workItem from="1552305397046" duration="2538000" />
+      <workItem from="1552354975927" duration="704000" />
+      <workItem from="1552373039856" duration="3000" />
+      <workItem from="1552389957402" duration="104000" />
+      <workItem from="1552441297882" duration="2779000" />
+      <workItem from="1552447036756" duration="10150000" />
+      <workItem from="1552465506300" duration="1448000" />
+      <workItem from="1552468074795" duration="2859000" />
+      <workItem from="1552527845464" duration="4062000" />
+      <workItem from="1552532795981" duration="127000" />
+      <workItem from="1552533756101" duration="8000" />
+      <workItem from="1552552471879" duration="1704000" />
+      <workItem from="1552560502276" duration="1623000" />
+      <workItem from="1552562193814" duration="2740000" />
+      <workItem from="1552615180302" duration="7693000" />
+      <workItem from="1552631926018" duration="917000" />
+      <workItem from="1552632848978" duration="6146000" />
+      <workItem from="1552639241176" duration="4735000" />
+      <workItem from="1552701659260" duration="2276000" />
+      <workItem from="1552872845006" duration="29853000" />
+      <workItem from="1552959161194" duration="28338000" />
+      <workItem from="1553052148635" duration="19237000" />
+      <workItem from="1553132276929" duration="1278000" />
+      <workItem from="1553133731182" duration="24728000" />
+      <workItem from="1553163775753" duration="830000" />
+      <workItem from="1553218489821" duration="11562000" />
+      <workItem from="1553241599925" duration="2493000" />
+      <workItem from="1553254945683" duration="192000" />
+      <workItem from="1553478105662" duration="2799000" />
+      <workItem from="1553481040084" duration="705000" />
+      <workItem from="1553481764574" duration="5685000" />
+      <workItem from="1553489434050" duration="21065000" />
+      <workItem from="1553564335443" duration="15442000" />
+      <workItem from="1553588697349" duration="9334000" />
+      <workItem from="1553650820530" duration="32998000" />
+      <workItem from="1553740440954" duration="32622000" />
+      <workItem from="1553838369436" duration="8923000" />
+      <workItem from="1553850220677" duration="8398000" />
+      <workItem from="1554082534674" duration="8605000" />
+      <workItem from="1554102520390" duration="7770000" />
+      <workItem from="1554120208401" duration="2000" />
+      <workItem from="1554184673256" duration="3113000" />
+      <workItem from="1554201703673" duration="13294000" />
+      <workItem from="1554275257956" duration="6337000" />
+      <workItem from="1554291034237" duration="1939000" />
+      <workItem from="1554341754548" duration="2202000" />
+      <workItem from="1554687790893" duration="16527000" />
+      <workItem from="1554725054802" duration="2678000" />
+      <workItem from="1554773429343" duration="14633000" />
+      <workItem from="1554865714536" duration="84757000" />
+      <workItem from="1555325351631" duration="1508000" />
+      <workItem from="1555330497600" duration="1427000" />
+      <workItem from="1555378621673" duration="13870000" />
+      <workItem from="1555411324339" duration="3967000" />
+      <workItem from="1555464882303" duration="18744000" />
+      <workItem from="1555551238881" duration="8693000" />
+      <workItem from="1555638523414" duration="10795000" />
+      <workItem from="1555897146869" duration="2965000" />
+      <workItem from="1555924257718" duration="279000" />
+      <workItem from="1555929636234" duration="4304000" />
+      <workItem from="1555984231854" duration="5397000" />
+      <workItem from="1555999950221" duration="3586000" />
+      <workItem from="1556022055758" duration="11364000" />
+      <workItem from="1556158206771" duration="16859000" />
+      <workItem from="1556273477521" duration="1024000" />
+      <workItem from="1556533263297" duration="1036000" />
+      <workItem from="1557061110621" duration="775000" />
+      <workItem from="1557208266833" duration="23738000" />
+      <workItem from="1557303246352" duration="27738000" />
+      <workItem from="1557396051255" duration="273000" />
+      <workItem from="1557481136542" duration="2074000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="655693000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21916842" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29979253" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49891067" visible="true" weight="0.26746988" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50108933" side_tool="true" weight="0.28319502" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13834423" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32987553" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27593362" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/services/api/xnwApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/listView/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/button/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/embed.rnc" />
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/MliveHeader/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/inputItem/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1804">
+          <caret line="126" column="19" lean-forward="true" selection-start-line="126" selection-start-column="19" selection-end-line="126" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/loginConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/editPassword.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3344">
+          <caret line="176" column="44" selection-start-line="176" selection-start-column="44" selection-end-line="176" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/forgetPasswordCode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.webpackrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDeviceName/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="242" column="7" selection-start-line="242" selection-start-column="7" selection-end-line="242" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/forgetPasswordPhone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="68" column="32" lean-forward="true" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/chartCode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/utils/Util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="90" column="47" lean-forward="true" selection-start-line="90" selection-start-column="47" selection-end-line="90" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/inputItem/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="437">
+            <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/button/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cloudDoor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/protocol.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/utils/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="141" column="59" lean-forward="true" selection-start-line="141" selection-start-column="59" selection-end-line="141" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/addSecret.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="91" column="22" lean-forward="true" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="68" column="25" lean-forward="true" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/personDetail/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="105" column="10" lean-forward="true" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="177" column="19" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceList/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="87" column="38" lean-forward="true" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/cell/eventList/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="56" column="35" lean-forward="true" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/services/api/personProvider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/navBar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/personInfo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/photoUpload/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="126" column="27" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/bottomSelectDialog/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/face_recognition/face_recognition_model-weights_manifest.json" />
+    <entry file="file://$PROJECT_DIR$/public/models/face_recognition_model-weights_manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="35" column="62" lean-forward="true" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/imagePickerBtn/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/models/cloudDoor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="14556" column="20" selection-start-line="14556" selection-start-column="20" selection-end-line="14556" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/services/PubliceService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/models/person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="156" column="11" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

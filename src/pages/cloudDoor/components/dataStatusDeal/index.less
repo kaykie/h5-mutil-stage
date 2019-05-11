@@ -1,0 +1,42 @@
+@keyframes loading {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.cloud-data__status{
+  display: flex;
+  flex-direction: column;
+  height: 70vh;
+  justify-content: center;
+  align-items: center;
+  &__img{
+  }
+  &__loading{
+    display: inline-block;
+    vertical-align: top;
+    animation: loading 2s linear infinite;
+    .iconfont{
+      font-size: 1.333rem;
+      color: #d8d8d8;
+    }
+  }
+  &__info{
+    font-size: 0.3733rem;
+    color: #999;
+    line-height: 0.5333rem;
+    padding: 0.6667rem 0;
+  }
+  &__btn{
+    @size: 0.9067rem;
+    padding-bottom: 0.8rem;
+    .am-button{
+      min-width: 3.2rem;
+      height:@size;
+      font-size: 0.4267rem;
+      line-height: 0.88rem;
+    }
+  }
+}

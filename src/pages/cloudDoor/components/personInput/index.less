@@ -1,0 +1,73 @@
+.cloud-form{
+  &__item{
+    padding: 0 0.5333rem;
+    &--inner{
+      border-bottom: 1px solid #cacaca;
+    }
+    &--sex{
+      display: flex;
+    }
+  }
+  &__label{
+    min-width: 1.8133rem;
+    font-size: 0.4rem;
+    color: #333;
+    line-height: 1.0933rem;
+  }
+  &__require{
+    color: #fb4848;
+  }
+  .am-list-item{
+    min-height: 0.9333rem;
+    padding: 0;
+    .am-list-line{
+      padding: 0;
+    }
+    .am-input-control{
+      input{
+        font-size: 0.4rem;
+        color: #999;
+        &::-webkit-input-placeholder{
+          color: #999;
+        }
+      }
+    }
+  }
+  &__sex{
+    flex: 1;
+    &__item{
+      display: inline-block;
+      vertical-align: top;
+      width: 1.8667rem;
+      height: 0.8rem;
+      font-size: 0.4rem;
+      color: #666;
+      text-align: center;
+      line-height: 0.8rem;
+      background: #F4F4F4;
+      border-radius: 0.4667rem;
+      margin: 0.1333rem 0.4rem;
+      &.active{
+        background: #FF8F42;
+        color: #fff;
+      }
+    }
+  }
+  &__select{
+    .am-list-line{
+      display: flex;
+      .am-list-extra{
+        flex: 1;
+        font-size: 0.4rem;
+        text-align: left;
+        padding: 0.24rem 0;
+      }
+    }
+  }
+}
+.cloud-error__tips{
+  font-size: 0.3733rem;
+  color: #fb4848;
+  line-height: 0.5333rem;
+  padding: 0.1067rem 0 0;
+}

@@ -1,0 +1,42 @@
+.cloud-navbar{
+  @sizeH:1.2rem;// 90px
+  height: @sizeH; 
+  line-height: @sizeH;
+  .am-navbar-left{
+    min-width: @sizeH;
+    font-size: 0.5867rem; //44px
+    padding-left: 0.2133rem;
+  }
+  .am-icon-md{
+    @sizeL:0.8rem;
+    width: @sizeL;
+    height: @sizeL;
+    color: #333;
+  }
+  .am-navbar-title{
+    flex: 2;
+    width: 0.2rem;
+    font-size: 0.48rem; //36px
+    color: #333;
+  }
+  &__title{
+    width: 100%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .am-navbar-right{
+    min-width: @sizeH;
+    color: #333;
+    margin-right: 0;
+    padding: 0 0.4rem;
+    .iconfont{
+      font-size: 0.5867rem; //44px
+    }
+  }
+  &--text{
+    display: block;
+    font-size: 0.3733rem;
+  }
+}

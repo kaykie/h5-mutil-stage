@@ -1,0 +1,91 @@
+.mySearchNavBar {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.373rem;
+  margin: 0.38rem 0 0.48rem 0;
+  .mySearchNavBar-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .mySearchNavBar-input {
+      position: relative;
+      input {
+        height: 0.8rem;
+        font-size: 0.347rem;
+        color: #333;
+        width: 7.2rem;
+        margin-left: 0.427rem;
+        z-index: 2;
+        border: 0;
+        background: #f4f4f4;
+        border-radius: 0.4rem;
+        padding-left: 0.933rem;
+      }
+      .iconfont {
+        font-size: 0.4rem;
+        position: absolute;
+        left: 0.693rem;
+        top: 0.187rem;
+      }
+
+    }
+    .mySearchNavBar-text {
+      font-size: 0.4rem;
+      padding-right: 0.4rem;
+      line-height: 1;
+      span {
+        padding-right: 0.2rem;
+      }
+      .iconfont {
+        vertical-align: text-top;
+        font-size: 0.533rem;
+      }
+    }
+
+  }
+
+  .filter {
+    flex: 1;
+    background: rgba(0, 0, 0, .3);
+    position: absolute;
+    z-index: 101;
+    .detail {
+      background: #fff;
+      padding: 0 0.4rem 0.4rem 0.4rem;
+      height: auto;
+      //transition: height 3s linear;
+      .filter-title {
+        padding: 0.4rem 0 0.2rem 0;
+      }
+      .filter-condition {
+        display: flex;
+        flex-wrap: wrap;
+
+        overflow-y: auto;
+        span {
+          height: 0.8rem;
+          line-height: 0.8rem;
+          display: block;
+          background: #f4f4f4;
+          padding: 0 0.32rem;
+          border-radius: 0.4rem;
+          color: #666;
+          text-align: center;
+          margin: 0.2rem 0.267rem 0.267rem 0;
+        }
+        .active {
+          background: #FF8F42;
+          color: #fff;
+        }
+      }
+    }
+  }
+  .no-filter {
+    display: none;
+    .detail {
+      height: 0;
+    }
+  }
+
+}
+

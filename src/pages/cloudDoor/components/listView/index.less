@@ -1,0 +1,160 @@
+@keyframes loading {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.listView-container {
+  font-size: 0.373rem;
+  .indicator-activate {
+    color: grey;
+    line-height: 0.48rem;
+    i {
+      font-size: 0.48rem;
+    }
+    span {
+      padding-left: 0.267rem;
+    }
+  }
+  .am-pull-to-refresh-indicator {
+    height: 0.8rem;
+  }
+  .am-pull-to-refresh-down .am-pull-to-refresh-indicator {
+    margin-top: -0.8rem;
+  }
+  .loading-more-error {
+    color: #FB4848;
+    i {
+      font-size: 0.48rem;
+    }
+    span {
+      padding-left: 0.267rem;
+    }
+  }
+  .listView-end-loading {
+    i {
+      font-size: 0.48rem;
+    }
+    span {
+      padding-left: 0.267rem;
+    }
+  }
+  .am-list-body {
+    //min-height: 12.667rem;
+    &:before {
+      background-color: #fff !important;
+    }
+    &:after {
+      background-color: #fff !important;
+    }
+  }
+  .am-list-header {
+    //position: absolute;
+    //top: 0;
+    //bottom: 0;
+    //left: 0;
+    //right: 0;
+    z-index: 3;
+    color: #999;
+    .head-no-data {
+      display: flex;
+      height: 100%;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      .no-data-text {
+        margin-top: 0.667rem;
+        font-size: 0.373rem;
+      }
+    }
+  }
+  .am-list-footer {
+    padding-top: 1.067rem;
+    font-size: 0.373rem;
+  }
+}
+
+// 释放刷新状态
+.myListView {
+  .am-pull-to-refresh-indicator {
+    height: 2rem;
+  }
+  .indicator-release {
+    height: 2rem;
+    padding-top: 0.267rem;
+    i {
+      font-size: 0.48rem;
+      vertical-align: middle;
+    }
+    span {
+      padding-left: 0.267rem;
+    }
+    div {
+      padding-bottom: 0.267rem;
+    }
+  }
+  .am-pull-to-refresh-down .am-pull-to-refresh-indicator {
+    margin-top: 0;
+  }
+  .indicator-error {
+    color: #FB4848;
+    line-height: 2rem;
+    i {
+      font-size: 0.48rem;
+    }
+    span {
+      padding-left: 0.267rem;
+    }
+  }
+
+}
+
+.listView-default {
+
+  .indicator-activate {
+    color: grey;
+    line-height: 0.48rem;
+    i {
+      font-size: 0.48rem;
+    }
+    span {
+      padding-left: 0.267rem;
+    }
+  }
+
+}
+
+.listview-no-data {
+  font-size: 0.373rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .icon-warp {
+    text-align: center;
+    animation: loading 2s infinite linear;
+    .cloud-icon-Loading {
+      color: #d8d8d8;
+      font-size: 1.333rem;
+    }
+  }
+  .noData-text {
+    margin-top: 1.067rem;
+    color: #999;
+  }
+  .noData-btn {
+    margin-top: 0.747rem;
+    .am-button {
+      color: #666;
+      font-size: 0.427rem;
+      border-radius: 0.453rem;
+      width: 3.2rem;
+      height: 0.907rem;
+      line-height: 0.907rem;
+      border: 1px solid #ccc;
+      margin: 0 auto;
+    }
+  }
+}
