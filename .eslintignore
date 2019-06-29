@@ -1,0 +1,3 @@
+/src/pages/**/assets/*
+/node_modules
+/build

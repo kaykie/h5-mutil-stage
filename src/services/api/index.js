@@ -1,6 +1,7 @@
+/* eslint-disabled */
 import request from '../../utils/request';
 import PublicService from '../PubliceService';
-import config from '../../pages/faceSearch/config';
+import config from '../../pages/pageA/config';
 
 export default {
 
@@ -73,14 +74,14 @@ export default {
   // 获取应用绑定的设备列表
   async getAllDeviceList(params) {
     const res = await request({
-      url:'/api/org/tree',
+      url: '/api/org/tree',
       headers: {
         'Content-Type': 'application/json;charset=UTF-8',
       },
       method: 'POST'
     });
     const orgId = res.data[0].id;
-    const data = {...params, accessToken: config.accessToken,orgId};
+    const data = {...params, accessToken: config.accessToken, orgId};
     return request({
       url: '/api/resource/camera/list/page',
       data,

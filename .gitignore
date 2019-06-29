@@ -9,5 +9,5 @@
 # misc
 .DS_Store
 npm-debug.log*
-.idea
-.vscode
+/.idea
+/.vscode

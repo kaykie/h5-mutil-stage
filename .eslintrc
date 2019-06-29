@@ -43,5 +43,6 @@
     "spaced-comment": ["error", "always"],
     "switch-colon-spacing": "error",
     "prefer-template": "warn"
-  }
+  },
+
 }

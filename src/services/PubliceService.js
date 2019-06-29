@@ -1,7 +1,7 @@
 /* eslint-disable */
 import Util from '../utils/Util';
 import request from '../utils/request';
-import config from '../pages/faceSearch/config';
+import config from '../pages/pageA/config';
 import {ListView} from 'antd-mobile';
 import dsbridge from 'dsbridge';
 import {Toast} from 'antd-mobile/lib/index';

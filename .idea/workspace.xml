@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04ea7ec3-afd4-483a-a2b2-2c5b5a1dafce" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pages/pageA/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/pageA/routes/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/pageA/services/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/pageB/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/pageB/routes/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.webpackrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.webpackrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecosystem.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/cloudDoor.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/pageA.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/faceSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/pageB.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/css/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/css/index.less" afterDir="false" />
@@ -77,12 +85,12 @@
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/models/cloudDoor.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/models/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/models/example.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/models/person.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/routes/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/App.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDeviceName/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDeviceName/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/saveBtn/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDeviceName/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceDetail/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceDetail/index.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceList/index.js" beforeDir="false" />
@@ -130,8 +138,8 @@
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/register.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/MliveHeader/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/MliveHeader/index.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/button/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/button/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/button/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/button/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/button/index.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/inputItem/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/inputItem/index.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/inputItem/readme.md" beforeDir="false" />
@@ -169,7 +177,7 @@
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/searchResult/personSearchResult/index.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/services/PubliceService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/services/PubliceService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/services/api/personProvider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/services/api/xnwApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/services/api/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/services/api/xnwApi.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/services/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/services/example.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/utils/Util.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/utils/Util.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/utils/request.js" afterDir="false" />
@@ -188,30 +196,30 @@
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/yay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/yay.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/Bar.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/Test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/addBtn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/addBtn/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/addBtn/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/addBtn/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/addBtn/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/addBtn/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/bottomButton/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/bottomButton/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/bottomButton/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/bottomButton/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/addBtn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/addBtn/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/addBtn/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/bottomButton/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/bottomButton/index.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/button/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/button/index.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/dateSelect/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/dateSelect/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/dateSelect/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/dateSelect/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/listView/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/listView/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/listView/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/listView/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/navBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/navBar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/navBar/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/navBar/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/saveBtn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/saveBtn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/dateSelect/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/dateSelect/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/listView/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/listView/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/navBar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/navBar/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/saveBtn/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/saveBtn/index.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/uploadImage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/uploadImage/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/uploadImage/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/uploadImage/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/uploadImage/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/uploadImage/index.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/index.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/models/example.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/models/faceApp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/routes/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/App.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/addArea/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/addArea/readme.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/addDevice/index.js" beforeDir="false" />
@@ -232,6 +240,8 @@
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/cell/resultList/index.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/PubliceService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/PubliceService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/api/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -261,32 +271,57 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/pageA/index.js">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="10" selection-start-line="10" selection-end-line="10" />
+                <state relative-caret-position="180">
+                  <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/pages/pageA/router.js">
+            <entry file="file://$PROJECT_DIR$/.eslintignore">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.babelrc">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.eslintrc">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                <state relative-caret-position="398">
+                  <caret line="46" selection-start-line="46" selection-end-line="46" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.roadhogrc.mock.js">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/pageB/config.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" selection-start-line="3" selection-end-line="3" />
                   <folding>
-                    <element signature="e#0#38#0" expanded="true" />
+                    <element signature="n#!!doc" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/pageA/services/api/api.js">
+            <entry file="file://$PROJECT_DIR$/src/services/api/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+                <state relative-caret-position="40">
+                  <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
                   <folding>
+                    <element signature="n#!!doc" expanded="true" />
                     <element signature="e#0#42#0" expanded="true" />
                   </folding>
                 </state>
@@ -294,51 +329,8 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/App.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" selection-start-line="4" selection-end-line="4" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/pageB/routes/App.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" selection-start-line="1" selection-end-line="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/public/pageA.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="383">
-                  <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/webpack.config.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/public/pageB.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-                </state>
-              </provider>
+            <entry file="file://$PROJECT_DIR$/.editorconfig">
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
@@ -368,7 +360,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>goBackFromSearch</find>
       <find>personName</find>
       <find>onOpen</find>
       <find>onRefreshInitEventList</find>
@@ -398,6 +389,7 @@
       <find>face-a</find>
       <find>sha1-kvl2aPA96wnX+hHqKIgyqMdW414=</find>
       <find>cloudDoor</find>
+      <find>config</find>
     </findStrings>
     <replaceStrings>
       <replace>endTime</replace>
@@ -445,17 +437,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/searchBar/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceDetail/index.less" />
-        <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/listView/index.js" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceList/index.less" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/dateSelect/index.js" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/cell/searchResult/index.js" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/searchResult/index.js" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/models/cloudDoor.js" />
         <option value="$USER_HOME$/Desktop/index.js" />
-        <option value="$PROJECT_DIR$/.eslintrc" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.less" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/router.js" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/utils/request.js" />
@@ -486,7 +473,6 @@
         <option value="$PROJECT_DIR$/ecosystem.json" />
         <option value="$PROJECT_DIR$/.webpackrc.js" />
         <option value="$PROJECT_DIR$/src/pages/pageB/router.js" />
-        <option value="$PROJECT_DIR$/src/pages/pageB/index.js" />
         <option value="$PROJECT_DIR$/src/pages/pageB/config.js" />
         <option value="$PROJECT_DIR$/src/pages/pageA/index.js" />
         <option value="$PROJECT_DIR$/src/pages/pageA/router.js" />
@@ -496,6 +482,12 @@
         <option value="$PROJECT_DIR$/public/pageA.html" />
         <option value="$PROJECT_DIR$/public/pageB.html" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/pages/pageB/index.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/services/PubliceService.js" />
+        <option value="$PROJECT_DIR$/src/services/api/index.js" />
+        <option value="$PROJECT_DIR$/.eslintrc" />
+        <option value="$PROJECT_DIR$/.eslintignore" />
       </list>
     </option>
   </component>
@@ -544,7 +536,38 @@
               <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
               <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="pageA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="pageA" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="pageA" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="fontsize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
@@ -707,12 +730,12 @@
       <workItem from="1557396051255" duration="273000" />
       <workItem from="1557481136542" duration="2375000" />
       <workItem from="1557586359190" duration="698000" />
-      <workItem from="1561774513542" duration="843000" />
+      <workItem from="1561774513542" duration="1618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="657535000" />
+    <option name="totallyTimeSpent" value="658310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -763,79 +786,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/cell/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="242" column="7" selection-start-line="242" selection-start-column="7" selection-end-line="242" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/cell/forgetPasswordPhone.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="68" column="32" lean-forward="true" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/cell/chartCode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/pageA/utils/Util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="90" column="47" lean-forward="true" selection-start-line="90" selection-start-column="47" selection-end-line="90" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/pageA/components/inputItem/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/components/button/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/cell/protocol.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/pageA/utils/request.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="835">
-          <caret line="141" column="59" lean-forward="true" selection-start-line="141" selection-start-column="59" selection-end-line="141" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/cell/addSecret.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/api/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
@@ -985,23 +935,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecosystem.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/pageB/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/pageB/index.less">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1038,16 +971,6 @@
           <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/pageB/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1128,6 +1051,92 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecosystem.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageB/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageB/components/uploadImage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/PubliceService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9139">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageB/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.roadhogrc.mock.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/assets/fontsize/iconfont.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
