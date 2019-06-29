@@ -26,11 +26,11 @@ const config = {
   },
   // 如果为开发环境,则展示当前需要开发的页面,需要下面手动切换.
   'entry': process.env.NODE_ENV === 'development' ? {
-    // 'faceSearch': './src/pages/faceSearch/index.js',
-    'cloudDoor': './src/pages/cloudDoor/index.js'
+    // 'pageA': './src/pages/pageA/index.js',
+    'pageB': './src/pages/pageB/index.js'
   } : {
-    'faceSearch': './src/pages/faceSearch/index.js',
-    'cloudDoor': './src/pages/cloudDoor/index.js'
+    'pageA': './src/pages/pageA/index.js',
+    'pageB': './src/pages/pageB/index.js'
   },
   'html': {'template': './src/pages/index.ejs'},
   'publicPath': process.env.NODE_ENV === 'development' ? '' : './'

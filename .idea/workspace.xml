@@ -2,8 +2,238 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04ea7ec3-afd4-483a-a2b2-2c5b5a1dafce" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ecosystem.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.webpackrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.webpackrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cloudDoor.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/pageA.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/faceSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/pageB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/css/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/css/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/css/reset.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/css/reset.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/fontsize/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/fontsize/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/fontsize/demo_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/fontsize/demo_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/fontsize/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/fontsize/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/fontsize/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/fontsize/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/fontsize/iconfont.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/fontsize/iconfont.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/fontsize/iconfont.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/fontsize/iconfont.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/fontsize/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/fontsize/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/fontsize/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/fontsize/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/fontsize/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/fontsize/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/fontsize/iconfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/fontsize/iconfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/default_image_empty_page.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/default_image_empty_page.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/default_image_empty_page@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/default_image_empty_page@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/default_image_empty_page@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/default_image_empty_page@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/default_image_load_failed.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/default_image_load_failed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/default_image_load_failed@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/default_image_load_failed@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/default_image_load_failed@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/default_image_load_failed@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/doorImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/doorImg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/entrance_guard.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/entrance_guard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/entrance_guard@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/entrance_guard@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/entrance_guard@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/entrance_guard@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/icn_entrance_guard.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/icn_entrance_guard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/icn_entrance_guard@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/icn_entrance_guard@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/images/icn_entrance_guard@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/images/icn_entrance_guard@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/assets/yay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/assets/yay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/bottomSelectDialog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/bottomSelectDialog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/bottomSelectDialog/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/bottomSelectDialog/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/button/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/button/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/button/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/cloudSearch/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/cloudSearch/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/cloudSearch/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/cloudSearch/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/confirmDialog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/confirmDialog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/confirmDialog/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/confirmDialog/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/dataStatusDeal/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/dataStatusDeal/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/dataStatusDeal/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/dataStatusDeal/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/dateSelect/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/dateSelect/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/dateSelect/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/dateSelect/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/dateSelect/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/dateSelect/readMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/image/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/image/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/image/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/image/readMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/imagePickerBtn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/imagePickerBtn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/imagePickerBtn/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/imagePickerBtn/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/inputItem/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/inputItem/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/inputItem/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/inputItem/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/inputItem/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/inputItem/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/listView/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/listView/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/listView/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/listView/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/listView/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/listView/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/myConfirmModal/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/myConfirmModal/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/myConfirmModal/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/myConfirmModal/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/navBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/navBar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/navBar/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/navBar/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/personInput/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/personInput/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/personInput/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/personInput/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/searchBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/searchBar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/searchBar/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/searchBar/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/searchBar/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/searchBar/readMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/searchNavBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/searchNavBar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/searchNavBar/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/searchNavBar/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/searchNavBar/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/searchNavBar/readMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/swipeAction/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/swipeAction/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/swipeAction/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/swipeAction/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/tabBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/tabBar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/components/tabBar/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/components/tabBar/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/models/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/models/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/models/cloudDoor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/models/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/models/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/models/person.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/routes/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDeviceName/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDeviceName/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/saveBtn/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceDetail/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceDetail/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/searchResult/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/searchResult/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/face_landmark_68_model-shard1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/face_landmark_68_model-weights_manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/face_landmark_68_tiny_model-shard1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/face_landmark_68_tiny_model-weights_manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/face_recognition_model-shard1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/face_recognition_model-shard2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/face_recognition_model-weights_manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/mtcnn_model-shard1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/mtcnn_model-weights_manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/ssd_mobilenetv1_model-shard1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/ssd_mobilenetv1_model-shard2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/ssd_mobilenetv1_model-weights_manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/tiny_face_detector_model-shard1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/models/tiny_face_detector_model-weights_manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/cell/eventList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/cell/eventList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/cell/searchResult/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/cell/searchResult/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/api/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/assets/login_icon_disvisible@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/assets/login_icon_password_default@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/assets/login_icon_password_sel@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/assets/login_icon_user_default@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/assets/login_icon_user_sel@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/assets/login_icon_visible@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/assets/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/addSecret.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/chartCode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/editPassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/forgetPasswordCode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/forgetPasswordPhone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/protocol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/MliveHeader/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/MliveHeader/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/button/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/button/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/button/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/inputItem/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/inputItem/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/inputItem/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/loginConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/login/utils/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/MsgSyncDialog/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/MsgSyncDialog/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/deviceSelect/deviceSelectList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/deviceSelect/deviceSelectList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/deviceSelect/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/deviceSelect/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/message/messageDetail/cellList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/message/messageDetail/cellList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/message/messageDetail/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/message/messageDetail/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/message/messageList/cellList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/message/messageList/cellList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/message/messageList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/message/messageList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/personDetail/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/personDetail/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/personInfo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/personInfo/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/personList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/personList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/photoUpload/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/photoUpload/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/searchResult/deviceSearchResult/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/searchResult/deviceSearchResult/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/searchResult/personSearchResult/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/searchResult/personSearchResult/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/services/PubliceService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/services/PubliceService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/services/api/personProvider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/services/api/xnwApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/services/api/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/services/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/services/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/utils/Util.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/utils/Util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cloudDoor/utils/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageA/utils/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/fontsize/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/fontsize/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/fontsize/demo_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/fontsize/demo_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/fontsize/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/fontsize/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/fontsize/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/fontsize/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/fontsize/iconfont.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/fontsize/iconfont.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/fontsize/iconfont.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/fontsize/iconfont.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/fontsize/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/fontsize/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/fontsize/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/fontsize/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/fontsize/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/fontsize/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/fontsize/iconfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/fontsize/iconfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/images/addImg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/images/addImg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/assets/yay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/assets/yay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/Bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/addBtn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/addBtn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/addBtn/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/addBtn/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/addBtn/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/addBtn/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/bottomButton/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/bottomButton/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/bottomButton/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/bottomButton/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/button/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/button/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/dateSelect/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/dateSelect/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/dateSelect/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/dateSelect/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/listView/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/listView/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/listView/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/listView/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/navBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/navBar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/navBar/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/navBar/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/saveBtn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/saveBtn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/saveBtn/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/uploadImage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/uploadImage/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/components/uploadImage/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/components/uploadImage/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/models/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/models/faceApp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pageB/routes/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/addArea/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/addArea/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/addDevice/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/addDevice/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/addDevice/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/allDeviceList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/allDeviceList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/allDeviceList/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/areaList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/areaList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/deviceList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/deviceList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/cell/deviceList/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceArea/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/cell/resultDetail/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/cell/resultDetail/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/cell/resultList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/cell/resultList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,44 +245,98 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6157407">
+    <splitter split-orientation="horizontal" split-proportion="0.5812274">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ecosystem.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="1" lean-forward="true" selection-end-line="6" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/imagePickerBtn/index.js">
+            <entry file="file://$PROJECT_DIR$/src/pages/pageB/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/index.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="84" selection-start-line="84" selection-end-line="84" />
+                <state relative-caret-position="150">
+                  <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
                   <folding>
-                    <element signature="e#0#39#0" expanded="true" />
+                    <element signature="e#0#22#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/package.json">
+            <entry file="file://$PROJECT_DIR$/src/pages/pageA/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="510">
-                  <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+                <state relative-caret-position="135">
+                  <caret line="10" selection-start-line="10" selection-end-line="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/pages/pageA/router.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                  <folding>
+                    <element signature="e#0#38#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/pageA/services/api/api.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="315">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/App.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/pageB/routes/App.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" selection-start-line="1" selection-end-line="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/public/pageA.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="383">
+                  <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/webpack.config.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/public/pageB.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
                 </state>
               </provider>
             </entry>
@@ -61,23 +345,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/models/cloudDoor.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="735">
-                  <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/models/person.js">
+            <entry file="file://$PROJECT_DIR$/.webpackrc.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="171">
-                  <caret line="156" column="11" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
-                  <folding>
-                    <element signature="e#0#60#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="278">
+                  <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
                 </state>
               </provider>
             </entry>
@@ -96,7 +368,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>dataSourceRelation</find>
       <find>goBackFromSearch</find>
       <find>personName</find>
       <find>onOpen</find>
@@ -126,6 +397,7 @@
       <find>canvas</find>
       <find>face-a</find>
       <find>sha1-kvl2aPA96wnX+hHqKIgyqMdW414=</find>
+      <find>cloudDoor</find>
     </findStrings>
     <replaceStrings>
       <replace>endTime</replace>
@@ -173,22 +445,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/index.js" />
-        <option value="$PROJECT_DIR$/public/faceSearch.html" />
-        <option value="$PROJECT_DIR$/src/pages/faceSearch/index.less" />
-        <option value="$PROJECT_DIR$/src/pages/cloudDoor/services/api/xnwApi.js" />
-        <option value="$PROJECT_DIR$/src/pages/faceSearch/components/imagePicker/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/faceSearch/components/uploadImage/index.less" />
-        <option value="$PROJECT_DIR$/src/pages/faceSearch/routes/faceSearch/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/faceSearch/components/uploadImage/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/cloudDoor/services/PubliceService.js" />
-        <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/searchBar/index.less" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/index.js" />
-        <option value="$PROJECT_DIR$/.webpackrc.js" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/searchBar/index.js" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceDetail/index.less" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/listView/index.js" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceList/index.less" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/components/dateSelect/index.js" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/cell/searchResult/index.js" />
@@ -224,6 +484,18 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/index.js" />
         <option value="$PROJECT_DIR$/ecosystem.json" />
+        <option value="$PROJECT_DIR$/.webpackrc.js" />
+        <option value="$PROJECT_DIR$/src/pages/pageB/router.js" />
+        <option value="$PROJECT_DIR$/src/pages/pageB/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/pageB/config.js" />
+        <option value="$PROJECT_DIR$/src/pages/pageA/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/pageA/router.js" />
+        <option value="$PROJECT_DIR$/src/pages/pageA/services/api/api.js" />
+        <option value="$PROJECT_DIR$/src/pages/pageA/routes/App.js" />
+        <option value="$PROJECT_DIR$/src/pages/pageB/routes/App.js" />
+        <option value="$PROJECT_DIR$/public/pageA.html" />
+        <option value="$PROJECT_DIR$/public/pageB.html" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
       </list>
     </option>
   </component>
@@ -234,10 +506,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="299" />
-    <option name="y" value="170" />
-    <option name="width" value="1442" />
-    <option name="height" value="1000" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -251,19 +521,36 @@
         <subPane>
           <expand>
             <path>
-              <item name="带有人脸检索版本" type="b2602c69:ProjectViewProjectNode" />
-              <item name="带有人脸检索版本" type="462c0819:PsiDirectoryNode" />
+              <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="带有人脸检索版本" type="b2602c69:ProjectViewProjectNode" />
-              <item name="带有人脸检索版本" type="462c0819:PsiDirectoryNode" />
+              <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="带有人脸检索版本" type="b2602c69:ProjectViewProjectNode" />
-              <item name="带有人脸检索版本" type="462c0819:PsiDirectoryNode" />
+              <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h5-mutil-stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5-mutil-stage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -420,17 +707,17 @@
       <workItem from="1557396051255" duration="273000" />
       <workItem from="1557481136542" duration="2375000" />
       <workItem from="1557586359190" duration="698000" />
+      <workItem from="1561774513542" duration="843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="656692000" />
+    <option name="totallyTimeSpent" value="657535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21916842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21916842" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -443,7 +730,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49891067" visible="true" weight="0.2987952" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49891067" visible="true" weight="0.33373493" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50108933" side_tool="true" weight="0.28319502" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -476,102 +763,35 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/services/api/xnwApi.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/listView/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/button/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/embed.rnc" />
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/MliveHeader/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/inputItem/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1804">
-          <caret line="126" column="19" lean-forward="true" selection-start-line="126" selection-start-column="19" selection-end-line="126" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/loginConfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-190">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/editPassword.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3344">
-          <caret line="176" column="44" selection-start-line="176" selection-start-column="44" selection-end-line="176" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/forgetPasswordCode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2014">
-          <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.webpackrc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDeviceName/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/register.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/cell/register.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="242" column="7" selection-start-line="242" selection-start-column="7" selection-end-line="242" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/forgetPasswordPhone.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/cell/forgetPasswordPhone.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="68" column="32" lean-forward="true" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/chartCode.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/cell/chartCode.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/utils/Util.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/utils/Util.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
           <caret line="90" column="47" lean-forward="true" selection-start-line="90" selection-start-column="47" selection-end-line="90" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/inputItem/readme.md">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/components/inputItem/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="437">
@@ -581,31 +801,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/components/button/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/components/button/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
@@ -616,141 +815,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/cloudDoor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/protocol.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/cell/protocol.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/utils/request.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/utils/request.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="835">
           <caret line="141" column="59" lean-forward="true" selection-start-line="141" selection-start-column="59" selection-end-line="141" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/cell/addSecret.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/cell/addSecret.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/api/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/api/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="91" column="22" lean-forward="true" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.less">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/deviceManage/cell/addDevice/index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
           <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/index.less">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="68" column="25" lean-forward="true" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/addDevice/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/deviceManage/cell/addDevice/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/personDetail/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/personManage/personDetail/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="105" column="10" lean-forward="true" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/login/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/login/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1197">
           <caret line="177" column="19" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/cell/deviceList/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/deviceManage/cell/deviceList/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="604">
           <caret line="87" column="38" lean-forward="true" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/eventSearch/cell/eventList/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/eventSearch/cell/eventList/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1007">
           <caret line="56" column="35" lean-forward="true" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/services/api/personProvider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/navBar/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/components/navBar/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/personInfo/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/personManage/personInfo/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/photoUpload/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/personManage/photoUpload/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
           <caret line="126" column="27" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/bottomSelectDialog/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/components/bottomSelectDialog/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/image.jpg">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/deviceManage/image.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/face_recognition/face_recognition_model-weights_manifest.json" />
     <entry file="file://$PROJECT_DIR$/public/models/face_recognition_model-weights_manifest.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/personManage/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/personManage/index.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="35" column="62" lean-forward="true" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -759,20 +937,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/services/PubliceService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/components/imagePickerBtn/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/components/imagePickerBtn/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/deviceManage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -783,37 +961,171 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/routes/deviceManage/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/services/api/personProvider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/models/cloudDoor.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/models/person.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/cloudDoor/models/person.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="156" column="11" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
+        <state relative-caret-position="306">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
           <folding>
             <element signature="e#0#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/models/cloudDoor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-754">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ecosystem.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="true" selection-end-line="6" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageB/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageB/index.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageB/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/services/api/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.webpackrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/routes/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageB/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageB/components/Bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageB/components/Test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageB/routes/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pageB.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pageA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/services/PubliceService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pageA/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -32,8 +32,9 @@ module.exports = (config, {webpack}) => {
   //     }]
   // });
 
+  // 拷贝表态文件到 static目录下 为了图片的高清方案
   config.plugins.push(new CopyPlugin([
-    {from: `src/pages/cloudDoor/assets/images`, to: 'static/'}
+    {from: `src/pages/pageA/assets/images`, to: 'static/'}
   ]));
   console.log(12);
   return config;
